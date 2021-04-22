@@ -1,4 +1,4 @@
-public class xyz
+public AtoZ
 {
 	public void display()
 	{
